@@ -14,7 +14,7 @@ Mazzle is a simple maze game implemented in Python using the Tkinter library. Th
 * Tkinter library (usually included in Python installations)
 
 ## How to Play
-1. Run the main.py file to start the game.
+1. Run the mazzle_game.py file to start the game.
 
 2. The main menu allows you to choose from the following options:
 
