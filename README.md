@@ -18,9 +18,10 @@ Tkinter library (usually included in Python installations)
 
 2. The main menu allows you to choose from the following options:
 
-  Start default Game: Begin a game with a 10x10 maze, dark theme, and a blue agent block.
-  Customized Game setting: Customize the game settings, including maze size, theme, and agent color.
-  Exit game: Close the application.
+  * Start default Game: Begin a game with a 10x10 maze, dark theme, and a blue agent block.
+  * Customized Game setting: Customize the game settings, including maze size, theme, and agent color.
+  * Exit game: Close the application.
+  
 3. If you choose Customized Game setting, you can further customize the game by selecting the maze size, theme (Light or        Dark), and agent block color.
 
 4. Once the game starts, navigate through the maze using the arrow keys to reach the goal.
